@@ -1,12 +1,12 @@
 # 🕵️‍♂️ About Me
 
 Greetings! Welcome to my GitHub landing page!<br>
-I’m **Thejan**, an undergraduate at **General Sir John Kotelawala Defence University**. What started as a random answer to *"What’s your ambition?"* ("Cybersecurity!") became a real passion, now I’m all-in on becoming a **Security Analyst**.
+I’m **Thejan**, an undergraduate at **General Sir John Kotelawala Defence University**. What started as a random answer to *"What’s your ambition?"* ("Cybersecurity!") became a real passion, now I’m all-in on becoming a **Cybersecurity Analyst**.
 
 🌱 I’m currently learning cybersecurity skills like SIEM, threat detection, vulnerability analysis & scripting<br>
 🔬 Interested in SOC operations, network forensics & malware behavior<br>
 💬 Reach me at: **contact@lenoshz.com**<br>
-⚡ Fun fact: I constantly dream of finding a cure for male loneliness
+⚡ Fun fact: I use Arch btw
 
 
 ## 📊 GitHub Stats
