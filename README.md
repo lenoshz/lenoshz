@@ -1,11 +1,10 @@
 ## 👋 Bonjour, je m'appelle Thejan  
 
-Undergraduate at **General Sir John Kotelawala Defence University** with a keen interest in **Cybersecurity**.  
+Undergraduate at **KDU** with a keen interest in **Cybersecurity**.  
 
 🔐 Developing skills in **SIEM, threat detection, vulnerability assessment, and security scripting**  
 🛰️ Interested in **SOC operations, network forensics, and malware analysis**  
 📫 Reach me at: **contact@lenoshz.com**  
-⚡ Fun fact: Classified
 
 
 ## 📊 GitHub Stats
