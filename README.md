@@ -11,7 +11,7 @@ Undergraduate at **KDU** with a keen interest in **Cybersecurity**.
     <td>
       <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=2ECC71&background=00000000&center=true&vCenter=true&width=700&height=80&lines=logs+don’t+lie.;alerts+are+symptoms.;i+trace+the+cause.;siem+%7C+detection+%7C+automation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=2ECC71&background=00000000&center=true&vCenter=true&width=500&height=80&lines=logs+don’t+lie.;alerts+are+symptoms.;i+trace+the+cause.;siem+%7C+detection+%7C+automation.)](https://git.io/typing-svg)
 
 </div>
       <img src="https://nirzak-streak-stats.vercel.app/?user=lenoshz&theme=github_dark&hide_border=false" />
