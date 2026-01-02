@@ -16,7 +16,7 @@ Undergraduate at **KDU** with a keen interest in **Cybersecurity**.
 </div>
       <img src="https://nirzak-streak-stats.vercel.app/?user=lenoshz&theme=github_dark&hide_border=false" />
     <td>
-      <a href="[https://www.linkedin.com/in/thejanwijesinghe/](https://www.linkedin.com/in/thejanwijesinghe/)" target="_blank">
+      <a href="https://www.linkedin.com/in/thejanwijesinghe/" target="_blank">
         <img src="https://github.com/user-attachments/assets/ac91a2d9-0b4a-4c06-bfbb-ebd526c76abc" width="300"/>
       </a>
     </td>
