@@ -6,7 +6,12 @@ Undergraduate at **KDU** with a keen interest in **Cybersecurity**.
 🛰️ Interested in **SOC operations, network forensics, and malware analysis**  
 📫 Reach me at: **contact@lenoshz.com**  
 
-![](https://github-readme-stats.vercel.app/api?username=lenoshz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lenoshz&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoshz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=lenoshz&theme=github_dark&hide_border=false" />
+    <td>
+      <img width="300" height="300" src="https://github.com/user-attachments/assets/20590898-aec3-47e4-951d-5e63d26b98fd" />
+    </td>
+  </tr>
+</table>
